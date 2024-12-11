@@ -1,0 +1,308 @@
+[
+    {
+      "date": "9/13/2024",
+      "time": "17:50",
+      "home_team": {
+        "name": "Al Taawoun",
+        "id": 2927,
+        "logo": "https://media.api-sports.io/football/teams/2927.png"
+      },
+      "away_team": {
+        "name": "Al Khaleej",
+        "id": 2928,
+        "logo": "https://media.api-sports.io/football/teams/2928.png"
+      },
+      "odds": {
+        "home_win": "55.25%",
+        "draw": "27.70%",
+        "away_win": "17.01%"
+      },
+      "goal_expectation": {
+        "home": 1.50,
+        "away": 0.70
+      },
+      "over_under": {
+        "over_2.5": "37.59%",
+        "under_2.5": "62.50%",
+        "over_3.5": "18.15%",
+        "under_3.5": "81.97%"
+      },
+      "both_teams_to_score": {
+        "yes": "39.68%",
+        "no": "60.24%"
+      },
+      "isSpecial":true
+    },
+    {
+      "date": "9/13/2024",
+      "time": "17:50",
+      "home_team": {
+        "name": "Damac Club",
+        "id": 2956,
+        "logo": "https://media.api-sports.io/football/teams/2956.png"
+      },
+      "away_team": {
+        "name": "Al Akhdoud",
+        "id": 2977,
+        "logo": "https://media.api-sports.io/football/teams/2977.png"
+      },
+      "odds": {
+        "home_win": "50.51%",
+        "draw": "28.82%",
+        "away_win": "20.79%"
+      },
+      "goal_expectation": {
+        "home": 1.44,
+        "away": 0.82
+      },
+      "over_under": {
+        "over_2.5": "39.06%",
+        "under_2.5": "60.98%",
+        "over_3.5": "19.46%",
+        "under_3.5": "80.65%"
+      },
+      "both_teams_to_score": {
+        "yes": "43.29%",
+        "no": "56.50%"
+      },
+      "isSpecial":false
+    },
+    {
+      "date": "9/13/2024",
+      "time": "20:00",
+      "home_team": {
+        "name": "Al Nassr",
+        "id": 2939,
+        "logo": "https://media.api-sports.io/football/teams/2939.png"
+      },
+      "away_team": {
+        "name": "Al Ahli",
+        "id": 2931,
+        "logo": "https://media.api-sports.io/football/teams/2931.png"
+      },
+      "odds": {
+        "home_win": "51.55%",
+        "draw": "21.83%",
+        "away_win": "26.60%"
+      },
+      "goal_expectation": {
+        "home": 2.20,
+        "away": 1.56
+      },
+      "over_under": {
+        "over_2.5": "71.94%",
+        "under_2.5": "28.09%",
+        "over_3.5": "52.36%",
+        "under_3.5": "47.62%"
+      },
+      "both_teams_to_score": {
+        "yes": "70.42%",
+        "no": "29.67%"
+      },
+      "isSpecial":false
+    },
+    {
+      "date": "9/14/2024",
+      "time": "17:30",
+      "home_team": {
+        "name": "Al Fateh",
+        "id": 2931,
+        "logo": "https://media.api-sports.io/football/teams/2931.png"
+      },
+      "away_team": {
+        "name": "Al Ettifaq",
+        "id": 2934,
+        "logo": "https://media.api-sports.io/football/teams/2934.png"
+      },
+      "odds": {
+        "home_win": "32.79%",
+        "draw": "30.21%",
+        "away_win": "36.90%"
+      },
+      "goal_expectation": {
+        "home": 1.21,
+        "away": 1.30
+      },
+      "over_under": {
+        "over_2.5": "45.45%",
+        "under_2.5": "54.64%",
+        "over_3.5": "25.19%",
+        "under_3.5": "74.63%"
+      },
+      "both_teams_to_score": {
+        "yes": "52.08%",
+        "no": "47.85%"
+      },
+      "isSpecial":false
+    },
+    {
+      "date": "9/14/2024",
+      "time": "17:45",
+      "home_team": {
+        "name": "Al Fayha",
+        "id": 2944,
+        "logo": "https://media.api-sports.io/football/teams/2944.png"
+      },
+      "away_team": {
+        "name": "Al Raed",
+        "id": 2935,
+        "logo": "https://media.api-sports.io/football/teams/2935.png"
+      },
+      "odds": {
+        "home_win": "38.91%",
+        "draw": "29.85%",
+        "away_win": "31.25%"
+      },
+      "goal_expectation": {
+        "home": 1.35,
+        "away": 1.18
+      },
+      "over_under": {
+        "over_2.5": "45.87%",
+        "under_2.5": "54.35%",
+        "over_3.5": "25.51%",
+        "under_3.5": "74.63%"
+      },
+      "both_teams_to_score": {
+        "yes": "52.36%",
+        "no": "47.62%"
+      },
+      "isSpecial":false
+    },
+    {
+      "date": "9/14/2024",
+      "time": "20:00",
+      "home_team": {
+        "name": "Al Riyadh",
+        "id": 10511,
+        "logo": "https://media.api-sports.io/football/teams/10511.png"
+      },
+      "away_team": {
+        "name": "Al Hilal",
+        "id": 2932,
+        "logo": "https://media.api-sports.io/football/teams/2932.png"
+      },
+      "odds": {
+        "home_win": "3.11%",
+        "draw": "8.64%",
+        "away_win": "88.50%"
+      },
+      "goal_expectation": {
+        "home": 0.49,
+        "away": 3.15
+      },
+      "over_under": {
+        "over_2.5": "70.42%",
+        "under_2.5": "29.59%",
+        "over_3.5": "49.26%",
+        "under_3.5": "50.76%"
+      },
+      "both_teams_to_score": {
+        "yes": "36.90%",
+        "no": "62.89%"
+      },
+      "isSpecial":false
+    },
+    {
+      "date": "9/15/2024",
+      "time": "17:30",
+      "home_team": {
+        "name": "Al Qadisiya",
+        "id": 2933,
+        "logo": "https://media.api-sports.io/football/teams/2933.png"
+      },
+      "away_team": {
+        "name": "Al Shabab",
+        "id": 2940,
+        "logo": "https://media.api-sports.io/football/teams/2940.png"
+      },
+      "odds": {
+        "home_win": "43.67%",
+        "draw": "28.65%",
+        "away_win": "27.62%"
+      },
+      "goal_expectation": {
+        "home": 1.48,
+        "away": 1.12
+      },
+      "over_under": {
+        "over_2.5": "47.39%",
+        "under_2.5": "52.63%",
+        "over_3.5": "26.81%",
+        "under_3.5": "72.99%"
+      },
+      "both_teams_to_score": {
+        "yes": "52.63%",
+        "no": "47.17%"
+      },
+      "isSpecial":false
+    },
+    {
+      "date": "9/15/2024",
+      "time": "17:50",
+      "home_team": {
+        "name": "Al Kholood",
+        "id": 10509,
+        "logo": "https://media.api-sports.io/football/teams/10509.png"
+      },
+      "away_team": {
+        "name": "Al Orobah",
+        "id": 2961,
+        "logo": "https://media.api-sports.io/football/teams/2961.png"
+      },
+      "odds": {
+        "home_win": "31.95%",
+        "draw": "27.32%",
+        "away_win": "40.65%"
+      },
+      "goal_expectation": {
+        "home": 1.40,
+        "away": 1.60
+      },
+      "over_under": {
+        "over_2.5": "56.82%",
+        "under_2.5": "43.29%",
+        "over_3.5": "35.97%",
+        "under_3.5": "64.10%"
+      },
+      "both_teams_to_score": {
+        "yes": "60.61%",
+        "no": "39.22%"
+      },
+      "isSpecial":false
+    },
+    {
+      "date": "9/15/2024",
+      "time": "20:00",
+      "home_team": {
+        "name": "Al Ittihad",
+        "id": 2926,
+        "logo": "https://media.api-sports.io/football/teams/2926.png"
+      },
+      "away_team": {
+        "name": "Al Wehda",
+        "id": 2937,
+        "logo": "https://media.api-sports.io/football/teams/2937.png"
+      },
+      "odds": {
+        "home_win": "59.52%",
+        "draw": "20.20%",
+        "away_win": "20.37%"
+      },
+      "goal_expectation": {
+        "home": 2.37,
+        "away": 1.34
+      },
+      "over_under": {
+        "over_2.5": "71.43%",
+        "under_2.5": "28.74%",
+        "over_3.5": "51.28%",
+        "under_3.5": "48.78%"
+      },
+      "both_teams_to_score": {
+        "yes": "67.11%",
+        "no": "32.79%"
+      },
+      "isSpecial":true
+    }
+  ]
